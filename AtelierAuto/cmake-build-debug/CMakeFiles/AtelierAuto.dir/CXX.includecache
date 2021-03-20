@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/CLionProjects/AtelierAuto/Angajat.cpp
+Angajat.h
+C:/Users/Admin/CLionProjects/AtelierAuto/Angajat.h
+
+C:/Users/Admin/CLionProjects/AtelierAuto/Angajat.h
+string
+-
+
+C:/Users/Admin/CLionProjects/AtelierAuto/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+ctime
+-
+Angajat.h
+C:/Users/Admin/CLionProjects/AtelierAuto/Angajat.h
+
