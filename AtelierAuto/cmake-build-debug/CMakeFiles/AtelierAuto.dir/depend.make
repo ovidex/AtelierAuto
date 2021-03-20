@@ -4,6 +4,11 @@
 CMakeFiles/AtelierAuto.dir/Angajat.cpp.obj: ../Angajat.cpp
 CMakeFiles/AtelierAuto.dir/Angajat.cpp.obj: ../Angajat.h
 
+CMakeFiles/AtelierAuto.dir/Masina.cpp.obj: ../Angajat.h
+CMakeFiles/AtelierAuto.dir/Masina.cpp.obj: ../Masina.cpp
+CMakeFiles/AtelierAuto.dir/Masina.cpp.obj: ../Masina.h
+
 CMakeFiles/AtelierAuto.dir/main.cpp.obj: ../Angajat.h
+CMakeFiles/AtelierAuto.dir/main.cpp.obj: ../Masina.h
 CMakeFiles/AtelierAuto.dir/main.cpp.obj: ../main.cpp
 
