@@ -9,6 +9,10 @@
 C:/Users/Admin/CLionProjects/AtelierAuto/Angajat.h
 string
 -
+vector
+-
+iostream
+-
 
 C:/Users/Admin/CLionProjects/AtelierAuto/Masina.h
 ctime
@@ -22,6 +26,8 @@ iostream
 vector
 -
 chrono
+-
+stdlib.h
 -
 ctime
 -
