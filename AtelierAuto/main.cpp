@@ -43,6 +43,7 @@ bool isFull(std::vector<Angajat*> angajati,std::string type){
     }
     return flag;
 }
+
 int main() {
 
     std::time_t t = std::time(0);   // get time now
@@ -63,7 +64,7 @@ int main() {
 
     a.push_back(new Director("Lipianu","Ovidiu",azi,data{9,12,1990}));
     a.push_back(new Mecanic("Lipianu","Florin",azi,data{9,12,1990}));
-
+    std::cout<<"Lista de comenzi este urmatoarea:(exit/wait/adauga/afiseaza/salariu/sterge/edit/atelier\n";
     while (1){
 //        std::cout<<isFull(a,"standard")<<"\n";
         for(auto ang:a){
