@@ -73,7 +73,7 @@ public:
             this->waiting.push_back((car_time){t,"camion"});
             return true;
         }
-        this->wait_here(car_type);
+
         return false;
     }
     bool isBusy(std::string car_type){

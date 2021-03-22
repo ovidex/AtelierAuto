@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/AtelierAuto.dir/main.cpp.o CMakeFiles/AtelierAuto.dir/Angajat.cpp.o CMakeFiles/AtelierAuto.dir/Masina.cpp.o  -o AtelierAuto 

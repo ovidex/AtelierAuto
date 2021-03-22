@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Admin/CLionProjects/AtelierAuto/Angajat.cpp
+Angajat.h
+/mnt/c/Users/Admin/CLionProjects/AtelierAuto/Angajat.h
+
+/mnt/c/Users/Admin/CLionProjects/AtelierAuto/Angajat.h
+string
+-
+vector
+-
+iostream
+-
+
+/mnt/c/Users/Admin/CLionProjects/AtelierAuto/Masina.cpp
+Masina.h
+/mnt/c/Users/Admin/CLionProjects/AtelierAuto/Masina.h
+
+/mnt/c/Users/Admin/CLionProjects/AtelierAuto/Masina.h
+ctime
+-
+Angajat.h
+/mnt/c/Users/Admin/CLionProjects/AtelierAuto/Angajat.h
+
+/mnt/c/Users/Admin/CLionProjects/AtelierAuto/main.cpp
+iostream
+-
+vector
+-
+chrono
+-
+stdlib.h
+-
+ctime
+-
+Angajat.h
+/mnt/c/Users/Admin/CLionProjects/AtelierAuto/Angajat.h
+Masina.h
+/mnt/c/Users/Admin/CLionProjects/AtelierAuto/Masina.h
+
